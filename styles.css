@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 600px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color:aliceblue; 
+}
+
+.card {
+    width: 30rem; 
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.form-label
+{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 1.1rem;
+    
+}
+.buttonDiv
+{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 2%; 
+}
+h3
+{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: blue;
+    gap: 1%;
+}
